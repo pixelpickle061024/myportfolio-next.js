@@ -1,0 +1,50 @@
+{
+  "name": "3d-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Bruno Cat",
+    "email": "fucabruno118@gmail.com",
+    "github": "@BrunoCat118",
+    "linkedin": "https://www.linkedin.com/in/fucabruno118"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "@react-three/drei": "^9.80.0",
+    "@react-three/fiber": "^8.11.1",
+    "@svgr/webpack": "^8.1.0",
+    "@use-gesture/react": "^10.3.1",
+    "@vercel/analytics": "^1.0.2",
+    "dompurify": "^3.1.6",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "framer-motion": "^10.15.0",
+    "gltfjsx": "^6.2.13",
+    "lodash.clamp": "^4.0.3",
+    "maath": "^0.7.0",
+    "next": "^15.3.3",
+    "next-themes": "^0.2.1",
+    "popmotion": "^11.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.5",
+    "react-parallax-tilt": "^1.7.154",
+    "react-spring": "^10.0.1",
+    "react-type-animation": "^3.1.0",
+    "react-vertical-timeline-component": "^3.6.0",
+    "three": "^0.159.0",
+    "three-mesh-bvh": "^0.8.0"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.11.2",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3"
+  }
+}
