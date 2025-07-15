@@ -358,7 +358,7 @@ const projects = [
       },
     ],
     image: "/assets/projects/authgpt.png",
-    source_code_link: "https://github.com/BrunoCat118/Auth_GPT",
+    source_code_link: "https://github.com/pixelpickle061024/Auth_GPT",
     deployed_link: "https://agpt.co/",
   },
   {
@@ -392,7 +392,7 @@ const projects = [
       },
     ],
     image: "/assets/projects/diem.png",
-    source_code_link: "https://github.com/BrunoCat118/Diem",
+    source_code_link: "https://github.com/pixelpickle061024/Diem",
     deployed_link: "https://www.diem.com/en-us/",
   },
   {
@@ -426,7 +426,7 @@ const projects = [
       },
     ],
     image: "/assets/projects/basic.png",
-    source_code_link: "https://github.com/BrunoCat118/MERN-Stack-APP",
+    source_code_link: "https://github.com/pixelpickle061024/MERN-Stack-APP",
     deployed_link: "https://www.heroku.com/",
   },
   {
@@ -457,39 +457,39 @@ const projects = [
     ],
     image:
       "https://res.cloudinary.com/dqiqi75hm/image/upload/v1734187202/quickedit/dp6y8s8dstqfpq7svmj5.png",
-    source_code_link: "https://github.com/BrunoCat118/Quick_Edit",
+    source_code_link: "https://github.com/pixelpickle061024/Quick_Edit",
     deployed_link: "https://quick-edit-app.vercel.app",
   },
-  {
-    name: "Unity-Game-Framework",
-    description:
-      "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
-    tags: [
-      {
-        name: "unity",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "game-development",
-        color: "green-text-gradient",
-      },
-      {
-        name: "unity3D",
-        color: "yellow-text-gradient",
-      },
-      {
-        name: "game-frameworks",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "game-modules",
-        color: "orange-text-gradient",
-      },
-    ],
-    image: "/assets/projects/unitygame.png",
-    source_code_link: "https://github.com/BrunoCat118/Unity_Game_Framwork",
-    deployed_link: "http://gameframework.cn/",
-  },
+  // {
+  //   name: "Unity-Game-Framework",
+  //   description:
+  //     "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
+  //   tags: [
+  //     {
+  //       name: "unity",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "game-development",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "unity3D",
+  //       color: "yellow-text-gradient",
+  //     },
+  //     {
+  //       name: "game-frameworks",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "game-modules",
+  //       color: "orange-text-gradient",
+  //     },
+  //   ],
+  //   image: "/assets/projects/unitygame.png",
+  //   source_code_link: "https://github.com/BrunoCat118/Unity_Game_Framwork",
+  //   deployed_link: "http://gameframework.cn/",
+  // },
   {
     name: "Angular-Fire",
     description:
@@ -533,7 +533,7 @@ const projects = [
       },
     ],
     image: "/assets/projects/angular.png",
-    source_code_link: "https://github.com/BrunoCat118/Angular_Fire",
+    source_code_link: "https://github.com/pixelpickle061024/Angular_Fire",
     deployed_link: "https://firebaseopensource.com/projects/angular/angularfire2",
   },
   {
@@ -563,7 +563,7 @@ const projects = [
       },
     ],
     image: "/assets/projects/fig-pro.png",
-    source_code_link: "https://github.com/BrunoCat118/MyFigPro",
+    source_code_link: "https://github.com/pixelpickle061024/MyFigPro",
     deployed_link: "https://fig-pro-github.vercel.app",
   },
   {
@@ -585,69 +585,69 @@ const projects = [
       },
     ],
     image: "/assets/projects/swagger.png",
-    source_code_link: "https://github.com/BrunoCat118/PHP-swagger",
+    source_code_link: "https://github.com/pixelpickle061024/PHP-swagger",
     deployed_link: "https://zircote.github.io/swagger-php/",
   },
-  {
-    name: "Laradock",
-    description:
-      "Full PHP development environment for Docker. A Docker setup that lets you run a full PHP development environment in seconds.",
-    tags: [
-      {
-        name: "php",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "yellow-text-gradient",
-      },
-      {
-        name: "laravel",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "docker",
-        color: "orange-text-gradient",
-      },
-    ],
-    image: "/assets/projects/laradock.png",
-    source_code_link: "https://github.com/BrunoCat118/laradock",
-    deployed_link: "https://laradock.io/",
-  },
-  {
-    name: "SpreedSheet",
-    description:
-      "PhpSpreadsheet is a library written in pure PHP and offers a set of classes that allow you to read and write various spreadsheet file formats such as Excel and LibreOffice Calc. A pure PHP library for reading and writing spreadsheet files",
-    tags: [
-      {
-        name: "php",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "JavaScript",
-        color: "yellow-text-gradient",
-      },
-      {
-        name: "office",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "excel",
-        color: "orange-text-gradient",
-      },
-    ],
-    image: "/assets/projects/spreedsheet.png",
-    source_code_link: "https://github.com/BrunoCat118/PHP-Spreed-Sheet",
-    deployed_link: "https://phpspreadsheet.readthedocs.io/en/latest/",
-  },
+  // {
+  //   name: "Laradock",
+  //   description:
+  //     "Full PHP development environment for Docker. A Docker setup that lets you run a full PHP development environment in seconds.",
+  //   tags: [
+  //     {
+  //       name: "php",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "JavaScript",
+  //       color: "yellow-text-gradient",
+  //     },
+  //     {
+  //       name: "laravel",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "docker",
+  //       color: "orange-text-gradient",
+  //     },
+  //   ],
+  //   image: "/assets/projects/laradock.png",
+  //   source_code_link: "https://github.com/BrunoCat118/laradock",
+  //   deployed_link: "https://laradock.io/",
+  // },
+  // {
+  //   name: "SpreedSheet",
+  //   description:
+  //     "PhpSpreadsheet is a library written in pure PHP and offers a set of classes that allow you to read and write various spreadsheet file formats such as Excel and LibreOffice Calc. A pure PHP library for reading and writing spreadsheet files",
+  //   tags: [
+  //     {
+  //       name: "php",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "JavaScript",
+  //       color: "yellow-text-gradient",
+  //     },
+  //     {
+  //       name: "office",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "excel",
+  //       color: "orange-text-gradient",
+  //     },
+  //   ],
+  //   image: "/assets/projects/spreedsheet.png",
+  //   source_code_link: "https://github.com/BrunoCat118/PHP-Spreed-Sheet",
+  //   deployed_link: "https://phpspreadsheet.readthedocs.io/en/latest/",
+  // },
   {
     name: "Facility Management System",
     description:
@@ -676,9 +676,9 @@ const projects = [
     ],
     image: "/assets/projects/facility-manager.png",
     source_code_link:
-      "https://github.com/BrunoCat118/System",
+      "https://github.com/pixelpickle061024/System",
     deployed_link:
-      "https://github.com/BrunoCat118/System",
+      "https://github.com/pixelpickle061024/System",
   },
 ];
 
@@ -686,7 +686,7 @@ const socials = [
   {
     id: "github",
     icon: <GithubIcon />,
-    link: "https://github.com/BrunoCat118",
+    link: "https://github.com/pixelpickle061024",
   },
   {
     id: "linkedin",

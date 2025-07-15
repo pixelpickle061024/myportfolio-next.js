@@ -28,7 +28,7 @@ function About() {
         className="mt-3 dark:text-ctnSecondaryDark text-ctnSecondaryLight text-[17px] leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Dynamic and highly skilled Senior Software Engineer with over 7 years of
+          Dynamic and highly skilled Senior Software Engineer with over 10 years of
           experience in designing, developing, and maintaining scalable software.
           Expertise in both frontend and backend technologies including
           Blockchain, C#, C++, Reactnative, React, Node.js, Unity, Python, Angular,
